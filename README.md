@@ -3,7 +3,7 @@ This is the offical PyTorch code for paper "Advancing Remote Sensing Visual Grou
 The [dataset](https://drive.google.com/drive/folders/1e_wOtkruWAB2JXR7aqaMZMrM75IkjqCA?usp=drive_link) is open source.  
 
 ## Contents
-- [OPT-RSVG Dataset](#OPT-RSVG Dataset)
+- [OPT-RSVG Dataset](#OPT-RSVG-Dataset)
 - [LPVA Framework](#Performance-Comparison)
 - [Performance Comparison](#Performance-Comparison)
 
